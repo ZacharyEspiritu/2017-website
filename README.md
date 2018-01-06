@@ -1,15 +1,16 @@
-# personal-website
-The current version of my personal website. No more Bootstrap, hooray!
+# 2017-website
+
+Former version of my personal site. No more Bootstrap, hooray!
 
 Built using Jekyll.
 
-You can find the 2015 version of my website [here](https://github.com/ZacharyEspiritu/2015-website).
+Now outdated. See the newest version of my site [here](https://github.com/ZacharyEspiritu/zacharyespiritu.github.io).
 
 ## Installation
 
 ```console
-git clone https://github.com/ZacharyEspiritu/zacharyespiritu.github.io.git
-cd zacharyespiritu.github.io
+git clone https://github.com/ZacharyEspiritu/2017-website
+cd 2017-website
 bundle install
 bundle exec jekyll serve
 ```
